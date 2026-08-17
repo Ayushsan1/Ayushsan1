@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm Currently working on AI-ML implementation and Real world application with my skils in Pytorch, Python, AI and SQL and ML algorithms
+I'm Currently working on AI-ML implementation and Real world application with my skills in Pytorch, Python, AI and SQL and ML algorithms.
 
 
 ## 🌐 Socials:
