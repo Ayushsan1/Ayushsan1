@@ -16,11 +16,11 @@
 
 <img align="right" alt="AI/ML" width="300" src="https://media.giphy.com/media/SWoSkN6DxTszqKSJFH/giphy.gif">
 
-I'm a **BSc Data Analytics Graduate** (Jul 2026) passionate about leveraging AI and Machine Learning to solve real-world problems. Currently focused on building end-to-end ML solutions with expertise in:
+I'm a **BSc Data Analytics Graduate** (Jul 2026) passionate about leveraging AI and Machine Learning to solve real-world problems. Currently focused on building end-to-end ML solutions with expertise in data science and analytics.
 
 - 🤖 **AI/ML Implementation** - Model development and optimization
 - 📊 **Data Analysis** - Clinical analytics, market research, business intelligence
-- 🔬 **NLP Applications** - Natural Language Processing projects
+- 🔬 **NLP Applications** - Natural language Processing projects
 - 📈 **Model Deployment** - Production-ready machine learning systems
 - 💾 **Database Management** - SQL optimization and data engineering
 
@@ -68,21 +68,9 @@ I'm a **BSc Data Analytics Graduate** (Jul 2026) passionate about leveraging AI 
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ayushsan1&theme=radical&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&rank_icon=github)
-
 ![Streak Stats](https://streak-stats.demolab.com/?user=Ayushsan1&theme=radical&hide_border=true)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ayushsan1&theme=radical&hide_border=true&layout=compact&langs_count=8)
-
-</div>
-
----
-
-## 🏆 Achievements
-
-<div align="center">
-
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Ayushsan1&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=2)
 
 </div>
 
@@ -99,7 +87,7 @@ I'm a **BSc Data Analytics Graduate** (Jul 2026) passionate about leveraging AI 
 | 🔍 NLP Applications | Natural language processing projects | PyTorch, NLP |
 | 📈 Data Visualization | Interactive dashboards & reports | Power BI, Python |
 
-*Explore my repositories below to see more projects!*
+*Explore my repositories to see more projects!*
 
 </div>
 
@@ -112,12 +100,6 @@ I'm a **BSc Data Analytics Graduate** (Jul 2026) passionate about leveraging AI 
 ![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 </div>
-
----
-
-## 🔝 Top Contributed Repositories
-
-![Top Repos](https://github-contributor-stats.vercel.app/api?username=Ayushsan1&limit=5&theme=radical&combine_all_yearly_contributions=true)
 
 ---
 
