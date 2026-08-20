@@ -1,5 +1,7 @@
 # 💫 About Me:
-I'm Currently working on AI-ML implementation and Real world application with my skills in Pytorch, Python, AI and SQL and ML algorithms.
+I'm Currently working on AI-ML implementation and Real world application with my skills in Pytorch, Python, AI and SQL and ML algorithms. BSc Data Analytics Graduate (Jul 2026) with hands-on experience in data cleaning, visualization, hypothesis testing, and machine learning using Python, SQL, Power BI, and Excel.
+
+My experience spans clinical analytics, market research, and end-to-end machine learning projects, including model deployment and NLP-based applications. Actively seeking Data Analyst, Business Analyst, BI Analyst, and ML/AI Internship opportunities.
 
 
 ## 🌐 Socials:
